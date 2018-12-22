@@ -6,8 +6,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/Kevinoh47/lab-29)
+* [lab 29 Exercise 1 sandbox](https://codesandbox.io/s/jj5x63wj6v)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
